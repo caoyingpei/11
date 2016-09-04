@@ -1,0 +1,1 @@
+pyinstaller.exe -F splider.py -i E:\3.Í¼Æ¬ËØ²Ä\¿É°®Ã¨\ooopic_1471486633.ico
